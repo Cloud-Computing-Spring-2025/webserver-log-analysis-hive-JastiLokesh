@@ -176,3 +176,38 @@ Safari/13.1: 2
 2024-02-01 10:16: 3 requests  
 2024-02-01 10:17: 2 requests
 ```
+### Output Screenshots
+
+**Creating table**
+
+![Screenshot 2025-02-25 134730](https://github.com/user-attachments/assets/6c749995-295f-4f25-85ad-eec4dcc99dd9)
+
+
+**Total Web Requests:**
+
+![Screenshot (1)](https://github.com/user-attachments/assets/1864980e-e9ba-4900-8a4b-ed1ddf6df559)
+
+
+**Status Code Analysis:**
+
+![Screenshot (2)](https://github.com/user-attachments/assets/85ea6574-992f-4d14-83c8-3ebb13792df0)
+
+
+**Identify Most Visited Pages**
+
+![Screenshot (3)](https://github.com/user-attachments/assets/d969119c-b9ae-4f11-890c-0fb0eddd4032)
+
+
+**Traffic Source Analysis:**
+
+![Screenshot (4)](https://github.com/user-attachments/assets/efa0a36e-3cc1-4979-afc8-3729974d56c2)
+
+
+**Suspicious IP Addresses:**
+
+![Screenshot (5)](https://github.com/user-attachments/assets/b11fa195-db92-4381-8e40-90bf6556d629)
+
+
+**Traffic Trend Over Time:**
+
+![Screenshot (7)](https://github.com/user-attachments/assets/72ec0500-1977-477b-9911-db908c86ff0a)
