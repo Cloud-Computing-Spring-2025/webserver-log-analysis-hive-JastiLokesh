@@ -90,6 +90,19 @@ GROUP BY SUBSTRING(timestamp1, 1, 16)
 ORDER BY minute_time;
 ```
 
+### Implement Partitioning: Use partitioning by status code to optimize query performance.
+```bash
+CREATE TABLE web_logs_partitioned (
+    ip STRING,
+    timestamp STRING,
+    url STRING,
+    user_agent STRING
+)
+PARTITIONED BY (status INT)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE;
+```
 ## Challenges Faced
 
 During the implementation of the **Hive-based Web Log Analysis**, several challenges were encountered:
